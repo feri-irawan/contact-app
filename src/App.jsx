@@ -13,9 +13,3 @@ export default function App() {
     </>
   );
 }
-
-// Rekomendasi extension vscode
-// Auto Rename Tag
-// eslint
-// prettier
-// tailwindcss intellisense
